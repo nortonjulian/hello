@@ -13,3 +13,7 @@ body {
     align-items: center;
     height: 100vh;
 }
+
+.jasmine_html-reporter {
+    display: none;
+}
